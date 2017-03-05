@@ -1,8 +1,0 @@
-file1:
-<<<<<<< HEAD
-add in master branch@company/proGit_tmp
-add in test branch@company/proGit_tmp:
-=======
-add in master branch only
-add in master branch
->>>>>>> 1d619c7168a4f03bc248750ecd278d7d1f7045e8
